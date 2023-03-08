@@ -1,0 +1,2 @@
+# cosymfy
+ai for finance
